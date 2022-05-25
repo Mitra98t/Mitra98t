@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ## Fun Repository
 
-[![Sheep Card](https://github-readme-stats.vercel.app/api/pin/?username=Mitra98t&repo=sheep&theme=onedark)](https://github.com/Mitra98t/github-readme-stats)
+[![terminal-emu Card](https://github-readme-stats.vercel.app/api/pin/?username=Mitra98t&repo=terminal-emu&theme=onedark)](https://github.com/Mitra98t/terminal-emu)
+[![Sheep Card](https://github-readme-stats.vercel.app/api/pin/?username=Mitra98t&repo=sheep&theme=onedark)](https://github.com/Mitra98t/Sheep)
 
 <!--
 ## University
