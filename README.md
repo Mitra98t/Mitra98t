@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![wakatime](https://wakatime.com/badge/user/a066da80-f2e0-402c-bda8-566c96e36484.svg)](https://wakatime.com/@a066da80-f2e0-402c-bda8-566c96e36484?style=social)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitra98t&count_private=true&theme=onedark&show_icons=true&count_private=true&hide=issues" />
 </a>
