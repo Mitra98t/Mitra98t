@@ -29,9 +29,8 @@ Computer Science Student
 
 ## Most experienced in:
 
-  * C
   * JavaScript
-  * Python
+  * TypeScript
 
 
 ## More information
