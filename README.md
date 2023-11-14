@@ -16,7 +16,7 @@
 ## whoami
 
 Computer Science Student  
-✨ University of Pisa ✨
+✨ University ✨
 
 ## Interested in:
 
